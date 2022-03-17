@@ -1,2 +1,9 @@
-# 2022spring_42class_team1
-Team 1 레포지토리, 2022 봄학기 소프트웨어공학개론 (SWE3002-42)
+# Team 1 of SWE30202-41 (Spring, 2022)
+
+This is a repository of team 1 of SWE3002-42: Introduction to Software Engineering (Spring 2022)  in Sungkyunkwan University
+
+## Topic
+Smart-Homepany: Customize Your Own Workplace
+
+## Team Members
+김민현 | 김영빈 | 김종헌 | 오세훈 | 이미소 | 임세창 | 홍권
