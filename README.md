@@ -1,4 +1,4 @@
-# Team 1, SWE3002-41 (Spring, 2022)
+# Team 1, SWE3002-42 (Spring, 2022)
 
 This is a repository of team 1 of SWE3002-42: Introduction to Software Engineering (Spring, 2022) in Sungkyunkwan University
 
