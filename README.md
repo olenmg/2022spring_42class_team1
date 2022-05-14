@@ -7,6 +7,9 @@ Smart-Homepany: Customize Your Own Workplace
 
 ## Documents
 - [Project Proposal](./docs/team1_proposal.pdf)
+- [Software Requirements Specification (SRS)](./docs/Team1_SRS.pdf)
+- [Software Design Specification (SDS)](./docs/Team1_SDS.pdf)
+- [Final presentation](./docs/team1_presentation.pdf)
 
 ## Team Members
 김민현 | 김영빈 | 김종헌 | 오세훈 | 이미소 | 임세창 | 홍권
